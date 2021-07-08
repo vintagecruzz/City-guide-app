@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="logo_name">Find Your Way</string>
+    <string name="search_text">Search...</string>
+    <string name="restaurants">Restaurant</string>
+    <string name="hotels">Hotel</string>
+    <string name="airport">Airpot</string>
+    <string name="shops">Shop</string>
+    <string name="bank">Bank</string>
+    <string name="groceries">Groceries</string>
+    <string name="expand_all">EXPAND ALL</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="takeout">Takeout</string>
+    <string name="hotel">Hotels</string>
+    <string name="banks">Banks</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="gas_station">Gas Station</string>
+    <string name="pharmacies">Pharmacies</string>
+    <string name="post_offices">Post Offices</string>
+    <string name="parking_lots">Parking Lots</string>
+    <string name="featured_location">Featured Location</string>
+    <string name="featured_location_description">All the Locations that</string>
+    <string name="featured_location_description1">are featured and have</string>
+    <string name="featured_location_description2">the big demand</string>
+    <string name="featured_location_description3">in Town!</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+</resources>
